@@ -1,0 +1,14 @@
+# DirtyFrag workspace — build artifacts, kernel tree and write-ups stay local
+# (patterns are relative to this directory)
+
+# research/training corpus
+/write_up_train/
+
+# CVE-2026-43284: kernel tree, rebuildable initramfs root, exploit + notes
+/CVE-2026-43284/rootfs/
+/CVE-2026-43284/linux-6.12.35/
+/CVE-2026-43284/wu.md
+/CVE-2026-43284/exp_analysis.md
+/CVE-2026-43284/exp.i64
+/CVE-2026-43284/exp.c
+/CVE-2026-43284/exp

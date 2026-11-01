@@ -12,3 +12,4 @@
 /CVE-2026-43284/exp.i64
 /CVE-2026-43284/exp.c
 /CVE-2026-43284/exp
+/.gitignore

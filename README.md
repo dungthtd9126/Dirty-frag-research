@@ -1,3 +1,6 @@
+# References
+- Heavily from [DIRTY FRAG org repository](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/v4bel/dirtyfrag&ved=2ahUKEwjL-_ec2OaXAxUcieEIHWNgAFQQFnoECBkQAQ&usg=AOvVaw1XjLam4STGkzUY7apPJEia)
+
 # CVE-2026-43284
 
 ```c
